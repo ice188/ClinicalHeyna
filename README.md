@@ -1,4 +1,4 @@
-# clinicalHeyna
+# ClinicalHeyna
 
 This repository contains the code to generate a [clinicalHeyna model](tmp_link) by fine-tuning the Heyna base model on MIMIC-III dataset for hospital readmission task.
 
