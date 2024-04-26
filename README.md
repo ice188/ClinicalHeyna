@@ -1,6 +1,6 @@
 # clinicalHeyna
 
-This repository contains the code to pretrain and fine-tune clinicalHeyna model on MIMIC-III dataset for hospital readmission task.
+This repository contains the code to generate a [clinicalHeyna model](tmp_link) by fine-tuning the Heyna base model on MIMIC-III dataset for hospital readmission task.
 
 ## Experiment Steps
 1. Generate pretraining and fine-tuning data from  MIMIC-III in the same fashion as [ClinicalBERT](https://arxiv.org/abs/1904.05342)
