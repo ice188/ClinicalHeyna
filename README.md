@@ -9,4 +9,6 @@ This repository contains the code to generate a clinicalHeyna model ([report](tm
 4. Fine-tune on hospital readmission task (including early notes and discharge notes)
 5. Evaluate performance on readmission test set
 
-Steps 3 to 5 are contained in the colab notebook code/clinicalHeyna.ipynb.
+Step 1 is in the notebook code/generateDatasets.ipynb. 
+
+Steps 3 to 5 are contained in the the colab notebook code/clinicalHeyna.ipynb, which was adapted from the notebook for [HeynaDNA](https://github.com/HazyResearch/hyena-dna).
