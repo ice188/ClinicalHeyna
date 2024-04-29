@@ -5,7 +5,7 @@ This repository contains the code to generate a clinicalHeyna model ([report](tm
 ## Experiment Steps
 1. Generate pretraining and fine-tuning data from  MIMIC-III in the same fashion as [ClinicalBERT](https://arxiv.org/abs/1904.05342)
 2. Load Heyna checkpoint trained on 150 billion tokens on The Pile by downloading heyna_small_150b_tok.ckpt and heyna_small_150b.yaml from [here](https://github.com/HazyResearch/safari)
-3. Pre-train on clinical texts
+3. Pre-train on clinical texts and evaluate
 4. Fine-tune on hospital readmission task (including early notes and discharge notes)
 5. Evaluate performance on readmission test set
 
