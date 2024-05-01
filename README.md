@@ -1,6 +1,6 @@
 # ClinicalHyena: Hospital Readmission Prediction with Large Convolution Language Model
 
-This repository contains the code to generate a clinicalHyena model ([report](tmp_link)) by fine-tuning the [Heyna base model](https://arxiv.org/abs/2302.10866) on MIMIC-III dataset for hospital readmission task.
+This repository contains the code to generate a clinicalHyena model ([report](https://drive.google.com/file/d/1Vb_aOXFoHwQgwOZBf1nAIQ2rFBGa_5nk/view?usp=drive_link)) by fine-tuning the [Heyna base model](https://arxiv.org/abs/2302.10866) on MIMIC-III dataset for hospital readmission task.
 
 ## Experiment Steps
 1. Generate pretraining and fine-tuning data from  MIMIC-III in the same fashion as [ClinicalBERT](https://arxiv.org/abs/1904.05342)
